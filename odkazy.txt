@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/46370666/while-attempting-to-calculate-d-for-an-rsa-implementation-d-always-comes-out-ne
+https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/
+https://www.di-mgt.com.au/euclidean.html
+https://www.di-mgt.com.au/rsa_alg.html#note2
+https://encryption-calc.herokuapp.com/
+https://umaranis.com/rsa_calculator_demo.html
+https://www.tutorialspoint.com/cplusplus-program-to-implement-the-rsa-algorithm
+https://www.educative.io/edpresso/what-is-the-rsa-algorithm
+https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
+
